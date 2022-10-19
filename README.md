@@ -1,1 +1,6 @@
-# futurezm.github.io
+#### 分布式原理
+- CAP
+- Paxos
+- Raft
+- Zookeeper
+- Etcd
