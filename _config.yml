@@ -1,8 +1,9 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: futurezm's homepage
-description: Test for github page!
+title: 码间小筑
+description: 记录成长中的琐碎知识
+show_downloads: true
 
 lsi: false
 safe: true
